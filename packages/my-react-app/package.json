@@ -1,12 +1,12 @@
 {
   "name": "my-react-app",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
+    "comp-button-for-know-new": "^0.0.1",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.0.5",
-    "comp-button-for-know-new": "*"
+    "react-scripts": "2.0.5"
   },
   "scripts": {
     "start": "react-scripts start",
